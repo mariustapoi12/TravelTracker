@@ -1,22 +1,25 @@
-# ByteSquad
+For this team assignment, I setup the project (created Github repositroy, empty FE, BE and DB and pushed them), wrote the README, implemented the entire database and did some backend tasks (CRUD operations, filters and bug fixes). I also tested the application manually.  
+
+# README FILE FROM THE ORIGINAL TEAM's REPOSITORY
+## ByteSquad
 Team project: Advanced Bucket List
 
-Team members and roles (to be refined further):  
+Team members and roles (to be further refined):  
 Frontend:  
-Alexandra- Frontend  
-Oana- Frontend  
-Stefana- Frontend  
-András - Frontend  
+[Alexandra](https://github.com/914LupuAlexandra)- Frontend  
+[Oana](https://github.com/914LupeanOana)- Frontend  
+[Stefana](https://github.com/LolutaStefana)- Frontend  
+[András](https://github.com/Matyas2003) - Frontend  
 
 Backend:  
 Marius- Backend/QA
 
 Full-stack:  
-Andreea- Backend(/Frontend) - Project Manager  
-Antonia- Backend(/Frontend)  
-Briana- Backend(/Frontend)  
-Dayana- Backend(/Frontend)  
-Remus- Frontend(/Backend)  
+[Andreea](https://github.com/andreealaslo)- Backend(/Frontend) - Project Manager  
+[Antonia](https://github.com/VescanAntonia)- Backend(/Frontend)  
+[Briana](https://github.com/927TriponBriana)- Backend(/Frontend)  
+[Dayana](https://github.com/DayanaRalucaMardari)- Backend(/Frontend)  
+[Remus](https://github.com/Gabarsolon)- Frontend(/Backend)  
 *the role written outside the parenthesis are the ones which the developers will focus more on
 
 Components:  
@@ -57,5 +60,4 @@ click on 'Filename' file icon and select the file from the DB repository file (.
 click on the 'Restore' button  
 You might be required an user and/or password to access the DB. The username and password are both: postgres  
 In case there are problems, I also attached the script for it, so you can manually create it. By default, pgAdmin4 runs its server on jdbc:postgresql://localhost:5432/[SERVER_NAME]  
-![DB_Diagram](https://github.com/917tapoimarius/ByteSquad/assets/91742424/6bca8526-3bbe-4e27-aac6-d7f0a83523a8)
 
